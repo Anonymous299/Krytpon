@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=FermatTest
+comment1.params=n
+comment1.target=java.math.BigInteger\ getRandomFermatBase(java.math.BigInteger)
+comment2.params=n\ maxIterations
+comment2.target=boolean\ checkPrime(java.math.BigInteger,\ int)
+comment3.params=
+comment3.target=void\ returnIt()
+comment4.params=
+comment4.target=java.math.BigInteger\ returnP()
+comment5.params=
+comment5.target=java.math.BigInteger\ returnQ()
+numComments=6
