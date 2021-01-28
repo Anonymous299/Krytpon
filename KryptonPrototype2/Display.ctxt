@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Display
+comment1.params=n
+comment1.target=java.awt.image.BufferedImage\ requestImage(int)
+comment1.text=public\ static\ void\ main(String\ args[])\ throws\ IOException\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ new\ Display();\r\n}
+comment2.params=
+comment2.target=Display()
+comment3.params=g
+comment3.target=void\ paintComponent(java.awt.Graphics)
+comment4.params=e
+comment4.target=void\ mouseClicked(java.awt.event.MouseEvent)
+comment4.text=\ public\ void\ actionPerformed(ActionEvent\ e)\ {\r\n\ \ \ \ \ \ \ \ if(e.getSource()\ \=\=\ register)\r\n\ \ \ \ \ \ \ \ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ \ \ \ \ RegisterClient\ client\ \=\ new\ RegisterClient();\r\n\ \ \ \ \ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ \ \ \ \ frame.setVisible(false);\r\n\ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ \ else\ if(e.getSource()\ \=\=\ login)\r\n\ \ \ \ \ \ \ \ {\r\n\ \ \ \ \ \ \ \ \ \ LoginClient\ client\ \=\ new\ LoginClient();\r\n\ \ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ \ \ \ \ frame.setVisible(false);\r\n\ \ \ \ \ \ \ \ }\r\n}
+comment5.params=e
+comment5.target=void\ mouseEntered(java.awt.event.MouseEvent)
+comment6.params=e
+comment6.target=void\ mouseExited(java.awt.event.MouseEvent)
+comment7.params=e
+comment7.target=void\ mousePressed(java.awt.event.MouseEvent)
+comment8.params=e
+comment8.target=void\ mouseReleased(java.awt.event.MouseEvent)
+numComments=9
