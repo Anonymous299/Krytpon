@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Blowfish
+comment1.params=password\ text
+comment1.target=java.lang.String\ encrypt(java.lang.String,\ java.lang.String)
+comment2.params=string\ password
+comment2.target=java.lang.String\ decrypt(java.lang.String,\ java.lang.String)
+numComments=3

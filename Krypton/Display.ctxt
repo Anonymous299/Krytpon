@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Display
+comment1.params=
+comment1.target=java.awt.Image\ requestImage()
+comment1.text=public\ static\ void\ main(String\ args[])\ throws\ IOException\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ new\ Display();\r\n}
+comment2.params=
+comment2.target=Display()
+comment3.params=g
+comment3.target=void\ paintComponent(java.awt.Graphics)
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=5

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ShowMessage
+comment1.params=message\ password\ username
+comment1.target=ShowMessage(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=eve
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=username
+comment3.target=java.lang.String[]\ returnDN(java.lang.String)
+numComments=4

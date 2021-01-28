@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=LoginClient
+comment1.params=
+comment1.target=LoginClient()
+comment2.params=eve
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=serverAddress
+comment3.target=void\ connectToServer(java.lang.String)
+numComments=4
